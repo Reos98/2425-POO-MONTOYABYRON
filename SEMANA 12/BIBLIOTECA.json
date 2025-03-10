@@ -1,0 +1,23 @@
+{
+    "001": {
+        "isbn": "001",
+        "titulo": "Libro 01",
+        "autor": "Autor 01",
+        "categoria": "Categoria",
+        "prestado": true
+    },
+    "002": {
+        "isbn": "002",
+        "titulo": "Libro 02",
+        "autor": "Autor 02",
+        "categoria": "Educacion",
+        "prestado": false
+    },
+    "003": {
+        "isbn": "003",
+        "titulo": "Libro 03",
+        "autor": "Autor 03",
+        "categoria": "Educacion",
+        "prestado": false
+    }
+}
